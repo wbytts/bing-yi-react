@@ -1,4 +1,7 @@
-.history
+dist
 node_modules
+target
+.idea
 
+*.exe
 
